@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://codeit.suntprogramator.dev"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -221,6 +221,7 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = ""
         Email = "xxxx@xxxx.com"
         RSS = true
+        Orcid = ""
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
@@ -424,6 +425,7 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = "xxxx"
         Email = "xxxx@xxxx.com"
         RSS = true
+        Orcid = ""
 
   [languages.fr]
     weight = 3
@@ -622,6 +624,7 @@ ignoreErrors = ["error-remote-getjson"]
         Bilibili = ""
         Email = "xxxx@xxxx.com"
         RSS = true
+        Orcid = ""
 
 [params]
   # CodeIT theme version
@@ -631,7 +634,7 @@ ignoreErrors = ["error-remote-getjson"]
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/sunt-programator/CodeIT"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
-  fingerprint = ""
+  fingerprint = "sha256"
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
@@ -785,6 +788,7 @@ ignoreErrors = ["error-remote-getjson"]
       Skype = false
       Trello = false
       Mix = false
+      Telegram = false
     # Comment config
     [params.page.comment]
       enable = true

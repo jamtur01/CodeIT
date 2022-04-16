@@ -371,6 +371,100 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aiyasin",
+      "name": "Yasin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61509470?v=4",
+      "profile": "http://aimoon.top",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "aplatanado",
+      "name": "Jesús Torres",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266452?v=4",
+      "profile": "http://www.jesustorres.es/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ktw717",
+      "name": "Karl Webster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19327709?v=4",
+      "profile": "https://github.com/ktw717",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "OnlyFor",
+      "name": "OnlyFor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16849187?v=4",
+      "profile": "https://github.com/OnlyFor",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "tbm98",
+      "name": "Minh Tran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52562340?v=4",
+      "profile": "https://tbm98.dev",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "aozaki-kuro",
+      "name": "Aozaki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28428951?v=4",
+      "profile": "https://github.com/aozaki-kuro",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "deining",
+      "name": "Andreas Deininger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18169566?v=4",
+      "profile": "https://github.com/deining",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Ashpex",
+      "name": "Ashpex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38400042?v=4",
+      "profile": "http://ashpex.eu.org",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "KHannibal",
+      "name": "KHannibal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3843004?v=4",
+      "profile": "https://github.com/KHannibal",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "xMicky24GIT",
+      "name": "xMicky24GIT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31669768?v=4",
+      "profile": "https://gitlab.com/SonoMichele",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

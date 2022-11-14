@@ -8,6 +8,13 @@
         </a>
     {{- end -}}
 
+    {{- /* 001a: Mastodon */ -}}
+    {{- if $share.Mastodon -}}
+        <a href="javascript:void(0);" title="{{ T `shareOn` }} Mastodon" data-sharer="mastodon" data-url="{{ .Permalink }}" data-title="{{ .Title }}"{{ with .Site.Params.Social.Mastodon }} data-via="{{ . }}"{{ end }}{{ with .Params.tags }} data-hashtags="{{ delimit . `,#` }}"{{ end }}>
+            {{- dict "Class" "fab fa-mastodon fa-fw" | partial "plugin/icon.html" -}}
+        </a>
+    {{- end -}}
+
     {{- /* 002: Facebook */ -}}
     {{- if $share.Facebook -}}
         <a href="javascript:void(0);" title="{{ T `shareOn` }} Facebook" data-sharer="facebook" data-url="{{ .Permalink }}"{{ with .Params.tags }} data-hashtag="{{ index . 0 }}"{{ end }}>
